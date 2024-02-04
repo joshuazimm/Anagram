@@ -1,0 +1,8 @@
+*
+!/**/
+!*.*
+*.exe
+anagram-solver-thread-testing.cpp
+anagram-testing.cpp
+combine-files.cpp
+thread-results.txt
